@@ -112,6 +112,9 @@ if __name__=="__main__":
     # Write the mesh to file "cube.stl"
     cube.save('CT.stl')
 
+    # print("asd")
+
+
 
 
 
